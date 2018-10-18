@@ -1,5 +1,17 @@
 /* CSS STYLING ELEMENTS FOR GRATEFUL DEAD WIKIPEDIA MIDTERM*/
 
+/* for 980px or less */
+@media screen and (max-width:980px) {
+	#pagewrap {
+		width: 94%
+	}
+	#content {
+		width: 65%
+	}
+	#sidebar {
+		width: 30%
+	}
+}
 
 /* bottom border line for Grateful Dead page itle */
 #title {
@@ -179,7 +191,6 @@ h3 {
 	column-count: 2;
 	column-gap: 50px;
 }
-
 
 
 
