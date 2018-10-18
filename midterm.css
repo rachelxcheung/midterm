@@ -1,0 +1,190 @@
+/* CSS STYLING ELEMENTS FOR GRATEFUL DEAD WIKIPEDIA MIDTERM*/
+
+
+/* bottom border line for Grateful Dead page itle */
+#title {
+	border-bottom: solid 2px black;
+	font-size: 50px;
+	margin: 0px;
+	padding-top: 30px;
+}
+
+/* column1 styling - background info column */
+.column1 {
+	float: right;
+
+	background-color: lightgrey;
+	display: inline;
+
+	height: 1150px;
+	width: 350px;
+
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+
+	font-size: 15px;
+}
+
+/* styling elements for Grateful Dead subheading in column1 */
+.subhead1 {
+	background-color: #85B0CE;
+
+	text-align: center;
+
+	height: 30px;
+	width: 200px;
+
+	border: transparent;
+
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+
+/* styling elements for Background info subheading in column1 */
+.subhead2 {
+	background-color: #85B0CE;
+
+	text-align: center;
+
+	height: 30px;
+	width: 200px;
+
+	border: transparent;
+
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+
+/* column2 styling - left side Wikipedia navigation bar */
+.column2 {
+	float: left;
+	clear: both;
+
+	background-color: white;
+	display: inline-block;
+
+	height: 3300px;
+	width: 200px;
+
+	border-right: solid 1px blue;
+	margin-right: 50px;
+	
+	font-size: 15px;
+}
+
+/* border properties, font, and background color for "Contents" ordered list*/
+.contents {
+	border: solid 1px black;
+	
+	height: 440px;
+	width: 250px;
+
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-top: 20px;
+
+	margin-left: 250px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	margin-top: 10px;
+
+	background-color: lightgrey;
+}
+
+/* Contents column styling elements */
+.contentsbar {
+	background-color: #85B0CE;
+
+	text-align: center;
+
+	height: 30px;
+	width: 200px;
+
+	border: transparent;
+
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 50px;
+}
+
+}
+/* image2 box model properties */
+.image2 {
+	border: transparent 1px black;
+	float: right;
+
+	text-align: center;
+	
+	height: 425px;
+	width: 550px;
+
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-top: 20px;
+
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+/* image3 box model properties */
+.image3 {
+	border: transparent 1px black;
+	float: right;
+
+	text-align: center;
+	
+	height: 200px;
+	width: 350px;
+
+	padding-left: 10px;
+	padding-right: 90px;
+
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+/* border and font properties for "Formation" and "Artwork" subsections */
+h3 {
+	font-size: 20px;
+	border-bottom: solid 1px black;
+}
+
+/* italic styling applied to list elements under "Artwork" */
+.list {
+	font-style: italic;
+}
+
+/* column count for References section */
+.column {
+	column-count: 2;
+	column-gap: 50px;
+}
+
+
+
+
+
+
+
+
+
